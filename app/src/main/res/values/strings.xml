@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="contact_id">%d</string>
+    <string name="contact_name">%s %s</string>
+    <string name="contact_phone">%s</string>
+    <string name="first_name">First name (Required)</string>
+    <string name="last_name">Last name (Required)</string>
+    <string name="phone_number">Phone number (Required)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="delete">Delete</string>
+    <string name="error_first_name">Please enter first name</string>
+    <string name="error_last_name">Please enter last name</string>
+    <string name="error_phone_number">Please enter phone number</string>
+    <string name="addcontactdialog">AddContactDialog</string>
+    <string name="editcontactdialog">EditContactDialog</string>
+</resources>
